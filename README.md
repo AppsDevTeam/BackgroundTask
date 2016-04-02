@@ -40,7 +40,7 @@ Create background task
 
 Background task extends [Kdyby/Console](https://github.com/Kdyby/Console) Command to support functions for thread manipulation.
 
-```
+```php
 <?php
 
 namespace App\Model\BackgroundTask;
@@ -65,7 +65,7 @@ Statuses:
 
 TODO: přidat příklady, proč mohl být přerušen
 
-```
+```php
 <?php
 
 namespace App\Presenters;
